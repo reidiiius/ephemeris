@@ -1,0 +1,10 @@
+﻿{
+ "name": "Ephermeris",
+ "version": "0.3",
+ "manifest_version": 1,
+ "description": "Alchemical music notation",
+ "author": "Reid Netterville III",
+ "default locale": "en",
+ "icons": { "27": "favicon.ico", "48": "reidiiius.ico", },
+ "homepage url": "https://sites.google.com/site/nautilusglyph/file",
+} 

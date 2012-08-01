@@ -1,0 +1,22 @@
+﻿
+body { 
+background-color:beige; }
+
+h1 { 
+text-align:center;
+color:indigo; }
+
+table { 
+margin-left:auto;
+margin-right:auto;
+background-color:ivory; }
+
+td { 
+border:2px solid lightgrey;
+padding:2px; }
+
+ruby { 
+font-size:36px;color:green; }
+
+rt { 
+color:olive; }
