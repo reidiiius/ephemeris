@@ -5,13 +5,13 @@ Alchemical music notation for harmonic and rhythmic transmutations.
 Ephemeris 
 --------- 
  
-#### Lexical syllabus: 
+#### Lexical Syllabus: 
 
 - Ascension &#9738; 
 - Opposition &#9741; 
 - Descension &#9739; 
-- Chromium &#9732; 
-- Cobalt &#9674; 
+- Titanium &#9732; 
+- Chromium &#9674; 
 - Iron &#9794; 
 - Copper &#9792; 
 - Silver &#9789; 

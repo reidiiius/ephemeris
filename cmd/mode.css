@@ -1,0 +1,32 @@
+﻿body {
+ background-color:beige; }
+
+h1 {
+ text-align:center;
+ color:indigo; }
+
+table {
+ margin-left:auto;
+ margin-right:auto; }
+
+td {
+ background-color:ivory;
+ border:2px solid lightgrey;
+ text-align:center;
+ padding:1em; }
+
+.sect {
+ margin-left:auto;
+ margin-right:auto; 
+ text-align:center; 
+ font-family:Sans-serif;
+ font-size:24px;
+ color:olive; }
+
+ code {
+ color:green; }
+
+.invert {
+ font-size:32px;
+ color:#c71585; }
+
