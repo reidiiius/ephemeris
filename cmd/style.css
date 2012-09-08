@@ -1,47 +1,66 @@
 ﻿
 body {
- background-color:beige; }
+ background-color:#f5f5dc; }
 
 code {
- color:green; }
+ color:#008000; }
 
 h1 {
  text-align:center;
- color:indigo; }
+ color:#4b0082; }
 
 h2 {
  text-align:center;
- color:olive; } 
+ color:#808000; } 
 
 p {
  font-family:Sans-serif;
  font-size:18px;
- color:olive; }
+ color:#808000; }
 
 table {
  margin-left:auto;
  margin-right:auto; }
 
 td {
- background-color:ivory;
- border:2px solid lightgrey;
+ background-color:#fffaf0;
+ border:2px solid #d3d3d3;
  text-align:center;
  padding:1em; }
+
+a:link {
+ text-decoration:none;
+ color:#8a2be2; }
+
+a:visited {
+ text-decoration:none; 
+ color:#9400d3; }
+
+a:hover {
+ text-decoration:none; 
+ color:#ba55d3; }
+
+a:active {
+ text-decoration:none; 
+ color:#9932cc; }
 
 .chakra { 
  text-align:center;
  font-family:Sans-serif;
- color:olive; }
+ color:#808000; }
 
 .foot {
  text-align:center; 
  font-family:Sans-serif;
  font-size:12px;
- color:silver; }
+ color:#c0c0c0; }
 
 .glyph {
  font-size:32px;
- color:green; }
+ color:#008000; }
+
+.groove {
+ color:#808000; }
 
 .invert {
  font-size:32px;
@@ -53,7 +72,7 @@ td {
 
 .node {
  font-size:32px;
- color:coral; }
+ color:#ff7f50; }
 
 .port {
  font-size:32px; }
@@ -61,7 +80,19 @@ td {
 .raga {
  text-align:center;
  font-family:Sans-serif;
- color:purple; }
+ color:#800080; }
+
+.rhythm {
+ border:1px solid #d3d3d3;
+ text-align:center;
+ font-size:28px;
+ color:#b8860b;
+ margin-left:auto;
+ margin-right:auto; }
+
+.pad {
+ border:transparent;
+ padding:0.5em; }
 
 .sect {
  margin-left:auto;
@@ -69,8 +100,8 @@ td {
  text-align:center; 
  font-family:Sans-serif;
  font-size:24px;
- color:olive; }
+ color:#808000; }
 
 .zodiac {
  font-size:32px;
- color:indigo; } 
+ color:#4b0082; } 
