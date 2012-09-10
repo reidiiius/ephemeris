@@ -1,7 +1,7 @@
 ﻿{
  "name": "Ephemeris",
- "version": "1.1",
- "manifest_version": 8,
+ "version": "1.2",
+ "manifest_version": 9,
  "description": "Alchemical music notation",
  "author": "Reid Netterville III",
  "default locale": "en",

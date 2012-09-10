@@ -6,7 +6,9 @@ Ephemeris
 --------- 
  
 #### Lexical Syllabus: 
-
+- Upbeat &#8593;
+- Downbeat &#8595;
+- Eighth rest &#8250;
 - Ascension &#9738; 
 - Opposition &#9741; 
 - Descension &#9739; 
