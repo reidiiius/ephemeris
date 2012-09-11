@@ -10,11 +10,12 @@ h2 {
  text-align:center;
  color:#808000; }
 
-rt { 
+rt {
+ font-size:24px; 
  color:#808000; }
 
 ruby { 
- font-size:36px;
+ font-size:32px;
  color:#008000; }
 
 table { 
@@ -22,6 +23,7 @@ table {
  margin-right:auto; }
 
 table.menu {
+ background-color:#f5f5dc;
  position:absolute;
  visibility:hidden;
  margin-left:auto;
@@ -31,7 +33,7 @@ td {
  background-color:#fffaf0;
  border:2px solid #d3d3d3;
  text-align:center;
- padding:1px; }
+ padding:2px; }
 
 td.menu {
  background-color:#fffaf0;

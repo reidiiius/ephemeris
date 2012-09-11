@@ -23,6 +23,7 @@ table {
  margin-right:auto; }
 
 table.menu {
+ background-color:#f5f5dc;
  position:absolute;
  visibility:hidden;
  margin-left:auto;
