@@ -1,11 +1,7 @@
-﻿Alchemy a la mode 
-=================
-Alchemical music notation for harmonic and rhythmic transmutations. 
-
-Ephemeris 
+﻿Ephemeris 
 --------- 
- 
-#### Lexical Syllabus: 
+
+#### Lexicon: 
 - Upbeat &#8593;
 - Downbeat &#8595;
 - Eighth rest &#8250;
@@ -44,4 +40,4 @@ Ephemeris
 
 Unpack the file in a directory of your choice, then click on **index.html**
  
-> Copyright &#169; 2012 Reid Netterville III. All Rights Reserved.
+> Copyright &#169; 2012 Reid Netterville III 
