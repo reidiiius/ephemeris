@@ -33,36 +33,36 @@ td {
  background-color:#fffaf0;
  border:2px solid #d3d3d3;
  text-align:center;
- padding:2px; }
+ padding:0.0em; }
 
 td.menu {
  background-color:#fffaf0;
  border:2px solid #d3d3d3;
  text-align:center;
- padding:1em; }
+ padding:0.25em; }
 
 .menu_pad {
  background-color:#fffaf0;
  text-align:center;
- padding:1em; }
+ padding:0.25em; }
 
 a:link {
  text-decoration:none;
- color:#800080; }
+ color:#696969; }
 
 a:visited {
  text-decoration:none; 
- color:#800080; }
+ color:#696969; }
 
 a:hover {
  text-decoration:none; 
- color:#008000;
- background-color:#ffffe0; }
+ color:#2f2f2f;
+ background-color:#fffff0; }
 
 a:active {
  text-decoration:none; 
- color:#008000;
- background-color:#ffffe0; }
+ color:#2f2f2f;
+ background-color:#fffff0; }
 
 .chord {
  color:#da70d6; }
