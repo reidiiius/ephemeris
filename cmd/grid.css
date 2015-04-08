@@ -1,91 +1,96 @@
 ﻿
-body { 
- background-color:#f5f5dc; }
-
-h1 { 
- text-align:center;
- color:#4b0082; }
-
+body {
+  background-color:#f5f5dc;
+}
+h1 {
+  text-align:center;
+  color:#4b0082;
+}
 h2 {
- text-align:center;
- color:#808000; }
-
+  text-align:center;
+  color:#808000;
+}
 rt {
- font-size:24px; 
- color:#808000; }
-
-ruby { 
- font-size:32px;
- color:#008000; }
-
-table { 
- margin-left:auto;
- margin-right:auto; }
-
+  font-size:16px;
+  color:#808000;
+}
+ruby {
+  font-size:24px;
+  color:#008000;
+}
+table {
+  margin-left:auto;
+  margin-right:auto;
+}
 table.menu {
- background-color:#f5f5dc;
- position:absolute;
- visibility:hidden;
- margin-left:auto;
- margin-right:auto; }
-
+  background-color:#f5f5dc;
+  position:absolute;
+  visibility:hidden;
+  margin-left:auto;
+  margin-right:auto;
+}
 td {
- background-color:#fffaf0;
- border:2px solid #d3d3d3;
- text-align:center;
- padding:0.0em; }
-
+  background-color:#fffaf0;
+  border:2px solid #d3d3d3;
+  text-align:center;
+  padding:0.0em;
+}
 td.menu {
- background-color:#fffaf0;
- border:2px solid #d3d3d3;
- text-align:center;
- padding:0.25em; }
-
+  background-color:#fffaf0;
+  border:2px solid #d3d3d3;
+  text-align:center;
+  padding:0.25em;
+}
 .menu_pad {
- background-color:#fffaf0;
- text-align:center;
- padding:0.25em; }
-
+  background-color:#fffaf0;
+  text-align:center;
+  padding:0.25em;
+}
 a:link {
- text-decoration:none;
- color:#696969; }
-
+  text-decoration:none;
+  color:#696969;
+}
 a:visited {
- text-decoration:none; 
- color:#696969; }
-
+  text-decoration:none;
+  color:#696969;
+}
 a:hover {
- text-decoration:none; 
- color:#2f2f2f;
- background-color:#fffff0; }
-
+  text-decoration:none;
+  color:#2f2f2f;
+  background-color:#fffff0;
+}
 a:active {
- text-decoration:none; 
- color:#2f2f2f;
- background-color:#fffff0; }
-
+  text-decoration:none;
+  color:#2f2f2f;
+  background-color:#fffff0;
+}
 .chord {
- color:#da70d6; }
-
+  color:#da70d6;
+}
 .foot {
- text-align:center; 
- font-family:Sans-serif;
- font-size:12px;
- color:#c0c0c0; }
-
+  text-align:center;
+  font-family:sans-serif;
+  font-size:12px;
+  color:#808080;
+}
 .fret {
- text-align:center;
- font-size:16px;
- color:#daa520;
- margin-left:auto;
- margin-right:auto; }
-
+  text-align:center;
+  font-size:16px;
+  color:#daa520;
+  margin-left:auto;
+  margin-right:auto;
+}
 .pad {
- border:transparent;
- padding:0.5em; }
-
+  border:transparent;
+  padding:0.5em;
+}
 .tab {
- margin-left:auto;
- margin-right:auto;
- font-size:24px;
- color:#808000; }
+  margin-left:auto;
+  margin-right:auto;
+  font-size:24px;
+  color:#808000;
+}
+.tab td {
+  padding:4px;
+}
+
