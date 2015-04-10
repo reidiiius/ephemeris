@@ -2,6 +2,9 @@
 body {
   background-color:#f5f5dc;
 }
+code {
+  color:#008000;
+}
 h1 {
   text-align:center;
   color:#4b0082;
@@ -10,47 +13,28 @@ h2 {
   text-align:center;
   color:#808000;
 }
-rt {
-  font-size:16px;
+p {
+  font-family:sans-serif;
+  font-size:18px;
   color:#808000;
-}
-ruby {
-  font-size:24px;
-  color:#008000;
 }
 table {
   margin-left:auto;
   margin-right:auto;
 }
 table.menu {
+  margin:5px 0 0 -8px;
   background-color:#f5f5dc;
   position:absolute;
   visibility:hidden;
-  margin-left:auto;
-  margin-right:auto;
 }
 td {
   background-color:#fffaf0;
   border:2px solid #d3d3d3;
   text-align:center;
-  padding:0.0em;
-}
-td.menu {
-  background-color:#fffaf0;
-  border:2px solid #d3d3d3;
-  text-align:center;
   padding:0.25em;
 }
-.menu_pad {
-  background-color:#fffaf0;
-  text-align:center;
-  padding:0.25em;
-}
-a:link {
-  text-decoration:none;
-  color:#696969;
-}
-a:visited {
+a {
   text-decoration:none;
   color:#696969;
 }
@@ -59,13 +43,10 @@ a:hover {
   color:#2f2f2f;
   background-color:#fffff0;
 }
-a:active {
-  text-decoration:none;
-  color:#2f2f2f;
-  background-color:#fffff0;
-}
-.chord {
-  color:#da70d6;
+.chakra {
+  text-align:center;
+  font-family:sans-serif;
+  color:#808000;
 }
 .foot {
   text-align:center;
@@ -73,24 +54,58 @@ a:active {
   font-size:12px;
   color:#808080;
 }
-.fret {
-  text-align:center;
+.glyph {
+  font-size:28px;
+  color:#008000;
+}
+.groove {
+  color:#808000;
+}
+.nav {
+  font-family:sans-serif;
   font-size:16px;
-  color:#daa520;
+}
+.node {
+  font-size:32px;
+  color:#ff7f50;
+}
+.port {
+  font-size:32px;
+}
+.raga {
+  text-align:center;
+  font-family:sans-serif;
+  color:#800080;
+}
+.rhythm {
   margin-left:auto;
   margin-right:auto;
+  border:1px solid #d3d3d3;
+  white-space:nowrap;
+  text-align:center;
+  font-size:20px;
+  color:#b8860b;
 }
 .pad {
   border:transparent;
   padding:0.5em;
 }
-.tab {
+.sect {
   margin-left:auto;
   margin-right:auto;
+  text-align:center;
+  font-family:sans-serif;
   font-size:24px;
   color:#808000;
 }
-.tab td {
-  padding:4px;
+.sect td {
+  padding:16px;
+}
+.invert {
+  color:#c71585;
+}
+.zodiac {
+  font-size:28px;
+  color:#4b0082;
 }
 
