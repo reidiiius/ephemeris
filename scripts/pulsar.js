@@ -1,17 +1,17 @@
 ﻿
-function $p() {
-  document.getElementById("p1").style.cursor="pointer";
+function point() {
+  document.getElementById("pnt").style.cursor = "pointer";
 }
 
-function $b() {
+function goBack() {
   window.history.back();
 }
 
-function showmenu(id) {
-  document.getElementById(id).style.visibility="visible";
+function viewList(qp) {
+  document.getElementById(qp).style.visibility = "visible";
 }
 
-function hidemenu(id) {
-  document.getElementById(id).style.visibility="hidden";
+function hideList(qp) {
+  document.getElementById(qp).style.visibility = "hidden";
 }
 
