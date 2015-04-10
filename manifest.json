@@ -1,14 +1,14 @@
 ﻿
 {
   "name": "Ephemeris",
-  "version": "1.6.1",
-  "manifest_version": 12,
+  "version": "1.6.2",
+  "manifest_version": 13,
   "description": "HTML character entities for music",
   "author": "Reid Netterville III",
   "default locale": "en",
   "icons": {
               "27": "favicon.ico",
-              "48": "reidiiius.ico"
+              "48": "images/reidiiius.ico"
            },
   "homepage url": "https://github.com/reidiiius/ephemeris",
 }
