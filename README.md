@@ -8,7 +8,7 @@
 - Ascension &#9738;
 - Opposition &#9741;
 - Descension &#9739;
-- Titanium &#9732;
+- Vanadium &#9910;
 - Chromium &#9674;
 - Iron &#9794;
 - Copper &#9792;
@@ -40,4 +40,5 @@
 
 Unpack the file in a directory of your choice, then click on **index.html**
 
-> Copyright &#169; 2012-2015 Reid Netterville III
+> Copyright &#169; 2012-2016 Reid Netterville III
+
