@@ -13,13 +13,15 @@ Astrochemistry
 #### Usage
 command line
 
-    cd ephemeris && iceweasel index.html
+    cd ephemeris | && chromium --incognito index.html
 
 optional browsers
 
-    chromium --incognito index.html
+    firefox index.html
 
     epiphany index.html
+
+    midori index.html
 
     dwb -S index.html
 
@@ -34,39 +36,51 @@ text-based browsers
 ---
 
 #### Lexicon
-- Upbeat &#8593;
-- Downbeat &#8595;
-- Eighth rest &#8250;
-- Ascension &#9738;
-- Opposition &#9741;
-- Descension &#9739;
-- Vanadium &#9910;
-- Chromium &#9674;
-- Iron &#9794;
-- Copper &#9792;
-- Silver &#9789;
-- Tin &#9795;
-- Gold &#9737;
-- Mercury &#9791;
-- Lead &#9796;
-- Uranium &#9797;
-- Neptunium &#9798;
-- Plutonium &#9799;
-- A&#9837; &#9800;
-- G &#9801;
-- G&#9837; &#9802;
-- F &#9803;
-- E &#9804;
-- E&#9837; &#9805;
-- D &#9806;
-- D&#9837; &#9807;
-- C &#9808;
-- B &#9809;
-- B&#9837; &#9810;
-- A &#9811;
-- Fire &#9839;
-- Air &#9838;
-- Water &#9837;
+
+ Metal | escape |
+-------|--------|
+ Vanadium | &amp;#9910; |
+ Chromium | &amp;#9674; |
+ Iron | &amp;#9794; |
+ Copper | &amp;#9792; |
+ Silver | &amp;#9789; |
+ Tin | &amp;#9795; |
+ Gold | &amp;#9737; |
+ Mercury | &amp;#9791; |
+ Lead | &amp;#9796; |
+ Uranium | &amp;#9797; |
+ Neptunium | &amp;#9798; |
+ Plutonium | &amp;#9799; |
+
+ Zodiac | escape |
+---------|--------|
+ A&#9837; | &amp;#9800; |
+ G | &amp;#9801; |
+ G&#9837; | &amp;#9802; |
+ F | &amp;#9803; |
+ E | &amp;#9804; |
+ E&#9837; | &amp;#9805; |
+ D | &amp;#9806; |
+ D&#9837; | &amp;#9807; |
+ C | &amp;#9808; |
+ B | &amp;#9809; |
+ B&#9837; | &amp;#9810; |
+ A | &amp;#9811; |
+
+ Element | escape |
+---------|--------|
+ Fire | &amp;#9839; |
+ Air | &amp;#9838; |
+ Water | &amp;#9837; |
+
+ Rhythm | escape |
+---------|--------|
+ Upbeat | &amp;#8593; |
+ Downbeat | &amp;#8595; |
+ Eighth rest | &amp;#8250; |
+ Ascension | &amp;#9738; |
+ Opposition | &amp;#9741; |
+ Descension | &amp;#9739; |
 
 ---
 
