@@ -13,7 +13,7 @@ Astrochemistry
 #### Usage
 command line
 
-    cd ephemeris | && chromium --incognito index.html
+    cd ephemeris && chromium --incognito index.html
 
 optional browsers
 
