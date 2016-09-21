@@ -19,6 +19,8 @@ optional browsers
 
     firefox index.html
 
+- lightweight
+
     epiphany index.html
 
     midori index.html
@@ -27,7 +29,7 @@ optional browsers
 
     dillo -f index.html
 
-text-based browsers
+- text-based
 
     elinks index.html
 
@@ -78,6 +80,9 @@ text-based browsers
  Upbeat | &amp;#8593; |
  Downbeat | &amp;#8595; |
  Eighth rest | &amp;#8250; |
+
+ Node aspect | escape |
+-------------|--------|
  Ascension | &amp;#9738; |
  Opposition | &amp;#9741; |
  Descension | &amp;#9739; |
