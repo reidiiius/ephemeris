@@ -1,15 +1,15 @@
 ﻿
 {
   "name": "Ephemeris",
-  "version": "1.6.3",
-  "manifest_version": 13,
-  "description": "HTML character entities for music",
+  "version": "1.7.0",
+  "manifest_version": 14,
+  "description": "Astrochemistry",
   "author": "Reid Netterville III",
   "default locale": "en",
   "icons": {
               "27": "favicon.ico",
               "48": "images/reidiiius.ico"
            },
-  "homepage url": "https://github.com/reidiiius/ephemeris",
+  "homepage url": "https://github.com/reidiiius/ephemeris"
 }
 
