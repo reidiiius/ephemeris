@@ -1,7 +1,39 @@
 ﻿Ephemeris
----------
+=========
+Astrochemistry
 
-#### Lexicon:
+---
+
+### Download
+
+    https://github.com/reidiiius/ephemeris.git
+
+---
+
+#### Usage
+command line
+
+    cd ephemeris && iceweasel index.html
+
+optional browsers
+
+    chromium --incognito index.html
+
+    epiphany index.html
+
+    dwb -S index.html
+
+    dillo -f index.html
+
+text-based browsers
+
+    elinks index.html
+
+    cat index.html | w3m -T text/html
+
+---
+
+#### Lexicon
 - Upbeat &#8593;
 - Downbeat &#8595;
 - Eighth rest &#8250;
@@ -36,9 +68,8 @@
 - Air &#9838;
 - Water &#9837;
 
-#### Getting started
+---
 
-Unpack the file in a directory of your choice, then click on **index.html**
-
-> Copyright &#169; 2012-2016 Reid Netterville III
+### Distribution
+MIT License
 
