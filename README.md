@@ -19,7 +19,7 @@ optional browsers
 
     firefox index.html
 
-- lightweight
+lightweight
 
     epiphany index.html
 
@@ -29,7 +29,7 @@ optional browsers
 
     dillo -f index.html
 
-- text-based
+text-based
 
     elinks index.html
 
