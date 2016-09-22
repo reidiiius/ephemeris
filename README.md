@@ -10,12 +10,12 @@ Astrochemistry
 
 ---
 
-#### Usage
+### Usage
 command line
 
     cd ephemeris && chromium --incognito index.html
 
-optional browsers
+**Optional Browsers**
 
     firefox index.html
 
@@ -37,10 +37,10 @@ text-based
 
 ---
 
-#### Lexicon
+### Lexicon
 
- Metal | escape |
--------|--------|
+ Metal | Decimal |
+-------|---------|
  Vanadium | &amp;#9910; |
  Chromium | &amp;#9674; |
  Iron | &amp;#9794; |
@@ -54,8 +54,8 @@ text-based
  Neptunium | &amp;#9798; |
  Plutonium | &amp;#9799; |
 
- Zodiac | escape |
----------|--------|
+ Chromatic | Decimal |
+-----------|---------|
  A&#9837; | &amp;#9800; |
  G | &amp;#9801; |
  G&#9837; | &amp;#9802; |
@@ -69,20 +69,20 @@ text-based
  B&#9837; | &amp;#9810; |
  A | &amp;#9811; |
 
- Element | escape |
----------|--------|
- Fire | &amp;#9839; |
- Air | &amp;#9838; |
- Water | &amp;#9837; |
+ Accidental | Decimal |
+------------|---------|
+ Sharp Fire | &amp;#9839; |
+ Natural Air | &amp;#9838; |
+ Flat Water | &amp;#9837; |
 
- Rhythm | escape |
----------|--------|
+ Rhythm | Decimal |
+--------|---------|
  Upbeat | &amp;#8593; |
  Downbeat | &amp;#8595; |
  Eighth rest | &amp;#8250; |
 
- Node aspect | escape |
--------------|--------|
+ Node Aspect | Decimal |
+-------------|---------|
  Ascension | &amp;#9738; |
  Opposition | &amp;#9741; |
  Descension | &amp;#9739; |
