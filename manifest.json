@@ -1,8 +1,8 @@
 ﻿
 {
   "name": "Ephemeris",
-  "version": "1.7.1",
-  "manifest_version": 14,
+  "version": "1.7.2",
+  "manifest_version": 15,
   "description": "Astrochemistry",
   "author": "Reid Netterville III",
   "default locale": "en",
@@ -10,6 +10,6 @@
               "27": "favicon.ico",
               "48": "images/reidiiius.ico"
            },
-  "homepage url": "https://github.com/reidiiius/ephemeris"
+  "homepage_url": "https://github.com/reidiiius/ephemeris"
 }
 
