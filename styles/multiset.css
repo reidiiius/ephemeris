@@ -78,7 +78,7 @@ ul.drop li {
 }
 a {
   text-decoration:none;
-  color:#708090;
+  color:#908070;
 }
 a:hover {
   text-decoration:none;
@@ -87,6 +87,11 @@ a:hover {
 .chakra {
   padding:6px;
   color:#808000;
+}
+.chartable {
+  width:340px;
+  height:440px;
+  border:0;
 }
 .chord {
   color:#da70d6;
@@ -101,6 +106,7 @@ a:hover {
   color:#daa520;
 }
 .gb {
+  width:350px;
   text-align:justify;
 }
 .glyph {
