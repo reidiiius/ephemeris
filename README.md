@@ -1,12 +1,11 @@
-﻿Ephemeris
-=========
+# ﻿Ephemeris
 Astrochemistry
 
 ---
 
 ### Download
 
-    https://github.com/reidiiius/ephemeris.git
+    git clone https://github.com/reidiiius/ephemeris.git
 
 ---
 
